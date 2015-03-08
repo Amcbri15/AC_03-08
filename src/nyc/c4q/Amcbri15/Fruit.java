@@ -15,19 +15,19 @@ public class Fruit {
         fruit = in.next();
 
         if (fruit.equalsIgnoreCase("banana")) {
-            color = "yellow.";
+            color = "yellow";
             flavor = "sweet.";
         }
         else if (fruit.equalsIgnoreCase("grapefruit")){
-            color = "pink.";
+            color = "pink";
             flavor = "bitter.";
         }
         else if (fruit.equalsIgnoreCase("lemon")){
-            color = "yellow.";
+            color = "yellow";
             flavor = "sour.";
         }
         else if (fruit.equalsIgnoreCase("apple")){
-            color = "red, green or yellow.";
+            color = "red, green or yellow";
             flavor = "sweet or sour.";
         }
         else {
